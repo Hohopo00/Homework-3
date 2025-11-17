@@ -26,7 +26,6 @@
 
 ### Блок-схема 
 <img width="2404" height="4244" alt="image" src="https://github.com/user-attachments/assets/9f24613d-605f-4178-bf3e-20a4d4b4ed11" />
-file:///C:/Users/vikys/Downloads/Homework-3.drawio.html
 
 
 
