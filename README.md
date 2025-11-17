@@ -26,7 +26,7 @@
 
 ### Блок-схема 
 <img width="2404" height="4244" alt="image" src="https://github.com/user-attachments/assets/9f24613d-605f-4178-bf3e-20a4d4b4ed11" />
-https://app.diagrams.net/?src=about&splash=0#R7ZZNj5swEIZ/DVJ76CpA2KTHhbR7yUqrplLPE3BgFONBxlmS/fUdg1OUhKjRJu0pEkiedz5sz2MLvDApt88aquKFMiG98JsXJprIdKNymwgpvWCEmRfOvCAY8esF3894/dY7qkALZS5JCLqEN5Ab0SkxqPVTmtKGC7S+2uyk89UNlhIUW/GKlFk4j882SMwVj1OeWGgW3oQ2mIJ8cg5DFatpgTKbw442dnm1gXS9t+KCNL5zWZCuJru1WeC7nSN8fJgexCxsLjtGrGpRc9Trftf+kfQC24PAOdTGCSlJCVWNy3YjVilB56hiMoZKJ7ke8YbE9myfW8k1+VlQKYzecYhLmHYJuwOrwcwUjkMw6bRCYF7sS351eKDuhPxP3R4pDxzVYcLhCWEviBdGo8pZpkYxrWPOvE/T9l/TWiQkiYHOFHXgUcojac9eipU5S76uIOU5523MbNwrP9yGrUScu5LUsFlglgllmZEBAz2gilCZtiFRzA+f72T0EHkRLzxh2+9tfmy4Ngkp3gtgy0ow/UbYE3AZ2GAYrEMZTi5juY+7BuV4CGWM+UykWIKNXAJfz1TcgX4c6GT8/4BGJ6AktgA6UL/cEvwPUSq531L0WH5aarMv/gm68BRdOIBJwlLIV6rRINn6uos9wvc3QodHEFUhNN6InO+PLkM3vZ7c49BVzERl2/MJSvv1/Hy/hdewvPAbeYtrOBmC2aApMg0NyDvPG/CMon/Gk83+h7n1HfxP/wY=#%7B%22pageId%22%3A%22_6kMP9uhorh4GVad86cH%22%7D
+file:///C:/Users/vikys/Downloads/Homework-3.drawio.html
 
 
 
